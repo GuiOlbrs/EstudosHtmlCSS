@@ -1,2 +1,1 @@
-# EstudosHtmlCSS
-Repositório com a finalidade de estudar o código HTML e CSS
+# Estudos sobre a linguagem de marcação HTML e CSS
